@@ -1,0 +1,18 @@
+@require: stdjareport
+
+document (|
+  title = {sample};
+  author = {Koji Higasa};
+|) '<
+  +chapter{first chapter}<
+    +p{
+      \SATySFi; first writing
+      paragraph is represented \dfn{block command} jj
+    }
+  >
+  +chapter{second chapter}<
+    +p{
+      \dfn{block command}
+    }
+  >
+>
