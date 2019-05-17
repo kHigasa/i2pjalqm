@@ -14,7 +14,6 @@ document (|
   +chapter{Schrödinger方程式}<
     +p{
       \dfn{Schrödinger方程式}とは量子力学の基礎方程式であり、電子や光子というものが、粒子と波動の両性質をもつことを成立させるものである。
-      paragraph is represented \dfn{block command} jj
     }
     +section{Schrödinger方程式}<
       +subsection{Schrödinger方程式の満たすべき条件}<
