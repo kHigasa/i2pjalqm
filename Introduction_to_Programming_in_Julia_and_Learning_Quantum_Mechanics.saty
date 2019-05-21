@@ -30,4 +30,11 @@ document (|
     +section{1次元Schrödinger方程式の一般的性質}<
     >
   >
+  +chapter{1次元の量子系}<
+    +p{
+      1次元の量子系には重要な性質が数多く含まれている。
+    }
+    +section{1次元Schrödinger方程式の一般的性質}<
+    >
+  >
 >
