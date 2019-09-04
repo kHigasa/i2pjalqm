@@ -1,7 +1,7 @@
 @require: stdjareport
 
 document (|
-  title = {量子力学によるJuliaプログラミング入門};
+  title = {「量子力学って神秘的でなんだか素敵だね。」そう言ってベッドにスマホを投げた貴女と縁を切った。};
   author = {Koji Higasa};
   show-title = true;
   show-toc = true;
