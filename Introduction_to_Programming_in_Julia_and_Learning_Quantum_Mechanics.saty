@@ -55,7 +55,7 @@ document (|
             +p{
                 test
             }
-            +subsection{test}<
+            +subsection{誤差}<
                 +p{
                     test
                 }
