@@ -60,6 +60,16 @@ document (|
                     test
                 }
             >
+            +subsection{積分法}<
+                +p{
+                    test
+                }
+            >
+            +subsection{微分法}<
+                +p{
+                    test
+                }
+            >
         >
     >
     +chapter ?:(`chap:motion`) {量子系の運動}<
