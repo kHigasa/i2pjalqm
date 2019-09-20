@@ -287,7 +287,7 @@ end = struct
   let-block ctx +abstract bt-abs-ja =
     let bb-title-ja =
       line-break false false ctx
-        (inline-fil ++ read-inline (ctx |> set-cjk-font font-cjk-gothic) {abstract} ++ inline-fil)
+        (inline-fil ++ read-inline (ctx |> set-cjk-font font-cjk-gothic) {序文} ++ inline-fil)
     in
     let bb-abs-ja = read-block ctx bt-abs-ja in
        [

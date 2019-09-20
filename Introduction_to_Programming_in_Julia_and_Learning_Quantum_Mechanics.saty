@@ -10,7 +10,7 @@ document (|
         }
     >;
     bibliography = [
-        (`Ralf2014`,
+        (`sunakawa_qm`,
             Book(|
                 author = {|砂川 重信|};
                 title = {量子力学};
@@ -84,7 +84,27 @@ document (|
         +p{
             test
         }
-        +section{1次元の量子系}<
+        +section{1次元の問題}<
+            +p{
+                test
+            }
+            +subsection{トンネル効果 - ポテンシャル障壁}<
+                +p{
+                    test
+                }
+            >
+            +subsection{束縛状態 - 井戸型ポテンシャル}<
+                +p{
+                    test
+                }
+            >
+            +subsection{Kronig-Pennyモデル - 周期的ポテンシャル}<
+                +p{
+                    test
+                }
+            >
+        >
+        +section{中心力ポテンシャル内の問題}<
             +p{
                 test
             }
